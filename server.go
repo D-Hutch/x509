@@ -36,7 +36,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
-	"malcert_mimikatz_poc/helper"
+	"helper"
 	"net"
 )
 
