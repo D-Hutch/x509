@@ -37,7 +37,7 @@ import (
 	"bytes"
 	"fmt"
 	"log"
-	"malcert_mimikatz_poc/helper"
+	"helper"
 	"time"
 )
 
